@@ -1,3 +1,3 @@
 #ProjectEuler
 
-![GitHub Logo](/images/euler.jpg)
+![GitHub Logo](./images/Euler.jpg)
