@@ -1,4 +1,4 @@
-# Clase de ejercicio 0001
+# Clase de ejercicio 0002
 
 import json
 from pprint import pprint
