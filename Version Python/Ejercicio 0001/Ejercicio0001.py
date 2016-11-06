@@ -6,6 +6,7 @@ class Ejercicio0001:
     """Esta es la clase del ejercicio 1"""
 
     def __init__(self, archivo):
+        
         with open(archivo) as data_file:    
             data = json.load(data_file)
         self.iniciorango = data['inicio']
@@ -24,11 +25,12 @@ class Ejercicio0001:
                     total += numeroEvaluar
                     contador += 1
                     sumo = True
-        data = {'total': total, 'contador': contador}
+        data = {'Total': total, 'Cantidad de multiplos': contador}
         with open(salida, 'w') as outfile:
             json.dump(data, outfile)
         return data
 
 retorno = Ejercicio0001('./data.json').getTotal('./resultado.json')
 
-print ("Total: " + str(retorno['total']) + "\nCantidad de multiplos: " + str(retorno['contador']))
+for key, value in retorno.items():
+    print (key + ": " + str(format(value, ',d')))# + "\nCantidad de multiplos: " + str(retorno['contador']))
