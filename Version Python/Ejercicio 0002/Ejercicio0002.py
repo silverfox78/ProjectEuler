@@ -19,7 +19,6 @@ class Ejercicio0002:
             suma = self.inicio + self.actual
             self.inicio = self.actual
             self.actual = suma
-            #print("inicio: " + str(self.inicio) + " - actual: " + str(self.actual) + " - suma: " + str(suma))
             if suma % 2 == 0:
                 total += suma;
         data = {"Total": total}
