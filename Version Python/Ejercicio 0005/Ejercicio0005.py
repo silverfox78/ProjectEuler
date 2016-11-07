@@ -68,9 +68,7 @@ class Ejercicio0005:
             json.dump(data, outfile)
         return data
 
-date_format = "%m/%d/%Y"
 inicio = datetime.now()
-
 print("Inicio del ejercicio: " + str(inicio.strftime('%Y-%m-%d %H:%M:%S')))
 retorno = Ejercicio0005('./data.json').determinaMinimoMultiplo('./resultado.json')
 
