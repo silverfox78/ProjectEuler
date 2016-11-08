@@ -9,7 +9,7 @@
 - [x] 7	10001st prime
 - [x] 8	Largest product in a series
 - [x] 9	Special Pythagorean triplet
-- [ ] 10	Summation of primes	
+- [x] 10	Summation of primes	
 - [ ] 11	Largest product in a grid	
 - [ ] 12	Highly divisible triangular number	
 - [ ] 13	Large sum
