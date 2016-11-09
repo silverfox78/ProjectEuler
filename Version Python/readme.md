@@ -11,7 +11,7 @@
 - [x] 9	Special Pythagorean triplet
 - [x] 10	Summation of primes	
 - [x] 11	Largest product in a grid	
-- [ ] 12	Highly divisible triangular number	
+- [x] 12	Highly divisible triangular number	
 - [ ] 13	Large sum
 - [ ] 14	Longest Collatz sequence
 - [ ] 15	Lattice paths
