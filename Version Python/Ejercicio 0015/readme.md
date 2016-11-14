@@ -28,6 +28,6 @@ Titulo: Lattice paths
     
     Hay exactamente 6 rutas a la esquina inferior derecha.
 
-![Ejercicio 0015](../../../images/p015.gif)
+![Ejercicio 0015](../../images/p015.gif)
 
     ¿Cuántas rutas existen a través de una cuadrícula de 20 × 20? millón.
