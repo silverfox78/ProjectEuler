@@ -15,7 +15,7 @@ Titulo: Lattice paths
     
     there are exactly 6 routes to the bottom right corner.
 
-![Ejercicio 0015](./images/p015.gif)
+![Ejercicio 0015](././images/p015.gif)
 
     How many such routes are there through a 20×20 grid?
 
@@ -28,6 +28,6 @@ Titulo: Lattice paths
     
     Hay exactamente 6 rutas a la esquina inferior derecha.
 
-![Ejercicio 0015](./images/p015.gif)
+![Ejercicio 0015](./././images/p015.gif)
 
     ¿Cuántas rutas existen a través de una cuadrícula de 20 × 20? millón.
