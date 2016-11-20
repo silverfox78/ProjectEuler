@@ -14,7 +14,7 @@
 - [x] 12	Highly divisible triangular number	
 - [x] 13	Large sum
 - [x] 14	Longest Collatz sequence
-- [ ] 15	Lattice paths
+- [x] 15	Lattice paths
 - [ ] 16	Power digit sum
 - [ ] 17	Number letter counts
 - [ ] 18	Maximum path sum I
