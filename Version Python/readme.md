@@ -15,8 +15,8 @@
 - [x] 13	Large sum
 - [x] 14	Longest Collatz sequence
 - [x] 15	Lattice paths
-- [ ] 16	Power digit sum
-- [ ] 17	Number letter counts
+- [x] 16	Power digit sum
+- [x] 17	Number letter counts
 - [ ] 18	Maximum path sum I
 - [ ] 19	Counting Sundays
 - [ ] 20	Factorial digit sum
